@@ -49,7 +49,7 @@ import org.springmodules.validation.commons.DefaultBeanValidator;
  *  2009.03.19  이삼섭          최초 생성
  *  2009.06.29  한성곤	       2단계 기능 추가 (댓글관리, 만족도조사)
  *  2011.08.31  JJY            경량환경 템플릿 커스터마이징버전 생성
- *
+ *	 2020.07.07 JYM				commit테스트
  *  </pre>
  */
 @Controller
