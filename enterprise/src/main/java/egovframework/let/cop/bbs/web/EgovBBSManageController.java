@@ -173,7 +173,7 @@ public class EgovBBSManageController {
 		model.addAttribute("boardVO", boardVO);
 		model.addAttribute("brdMstrVO", master);
 		model.addAttribute("paginationInfo", paginationInfo);
-System.out.println("uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu");
+
 		return "cop/bbs/EgovNoticeList";
 	}
 
