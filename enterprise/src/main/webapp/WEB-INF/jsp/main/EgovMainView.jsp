@@ -50,7 +50,7 @@
 						 <li><div class="board_title"><img src="<c:url value='/'/>images/index/img_subtitle01.gif" width="77" height="16" alt="최종접속현황정보" /></div>
 						 	<ul>
 						 		<li><b>[기타정보의 메인화면 위치 예시]</b></li>
-						 		<li>innovate님의 최종접속정보는 2020. 07. 11 11:45 입니다.</li>
+						 		<li>innovate님의 최종접속정보는 2020. 07. 11 17:45 입니다.</li>
 						 	</ul>
 						 </li>
 					</ul>
