@@ -35,7 +35,7 @@ import org.springframework.web.bind.annotation.SessionAttributes;
  *   수정일      수정자           수정내용
  *  -------    --------    ---------------------------
  *   2011.08.31  JJY            최초 생성
- *
+ *	  2020.07.21
  * </pre>
  */
 @Controller@SessionAttributes(types = ComDefaultVO.class)
