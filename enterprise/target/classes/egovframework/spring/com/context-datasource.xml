@@ -25,7 +25,8 @@
     <bean id="dataSource-mysql" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
         <property name="driverClassName" value="${Globals.DriverClassName}"/>
         <property name="url" value="${Globals.Url}" />
-        <property name="username" value="${Globals.UserName}"/>
+        <!-- <property name="username" value="${Globals.UserName}"/> -->
+        <property name="username" value="#{egovEnvCryptoService.getUsername()}"/>
         <!-- <property name="username" value="#{egovEnvCryptoService.getUsername()}"/> -->        
         <!-- <property name="password" value="${Globals.Password}"/> -->
         <property name="password" value="#{egovEnvCryptoService.getPassword()}"/>
