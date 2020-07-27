@@ -17,7 +17,7 @@ public class EgovEnvCryptoUserTest {
 		String[] arrCryptoString = { 
 		"totoro",         //데이터베이스 접속 계정 설정
 		"totoro1Q!@#",   //데이터베이스 접속 패드워드 설정
-		"jdbc:log4jdbc:mysql://192.168.35.49:3306/allinOne?serverTimezone=UTC",            //데이터베이스 접속 주소 설정
+		"jdbc:log4jdbc:mysql://192.168.35.49:3306/enterprise?serverTimezone=UTC",            //데이터베이스 접속 주소 설정
 		"databaseDriver"  //데이터베이스 드라이버
               };
  
