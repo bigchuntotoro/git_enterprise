@@ -1,6 +1,0 @@
-projectKey=enterprise:enterprise
-serverUrl=http://192.168.35.49:9000
-serverVersion=7.5.0.20543
-dashboardUrl=http://192.168.35.49:9000/dashboard?id=enterprise%3Aenterprise
-ceTaskId=AXNK4P2T9zH9JvE_hOAg
-ceTaskUrl=http://192.168.35.49:9000/api/ce/task?id=AXNK4P2T9zH9JvE_hOAg
